@@ -8,7 +8,8 @@ h1{
 }
 
 marquee{
-    background-color: #CCFFCC;
+    color:white;
+    background-color: #008;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
 }
