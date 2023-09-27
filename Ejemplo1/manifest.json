@@ -1,0 +1,17 @@
+{
+  "name": "Ejemplo 1",
+  "short_name": "Ejemplo 1",
+  "theme_color": "#CCC",
+  "background_color": "#CCCCCC",
+  "display": "fullscreen",
+  "orientation": "portrait",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "./images/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
